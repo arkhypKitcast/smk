@@ -1,0 +1,13 @@
+{
+    "name": "map8",
+    "version": "0.0.1",
+    "description": "smk",
+    "author": "smk",
+    "dependencies": {
+        "smk": "https://github.com/bcgov/smk",
+        "http-server": "^0.12.3"
+    },
+    "scripts": {
+        "view": "http-server -o -c-1"
+    }
+}
